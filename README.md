@@ -1,4 +1,4 @@
-# Hi, I'm Shameer Shahid 👋
+# Hi, I'm Shameer Shahid 
 
 Computer Science student focused on building practical Python solutions for web scraping, automation, data extraction, and AI-assisted tools.
 
@@ -37,5 +37,3 @@ Coming Soon:
 - RSS News Monitoring & Filtering System
 
 ---
-
-### Learning & Earning for my Dreams and Family
