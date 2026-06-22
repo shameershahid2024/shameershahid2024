@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Shameer Shahid 👋
 
-<!--
-**shameershahid2024/shameershahid2024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on building practical Python solutions for web scraping, automation, data extraction, and AI-assisted tools.
 
-Here are some ideas to get you started:
+##  What I'm Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web Scraping & Data Extraction
+- Browser Automation
+- API & JSON Data Processing
+- AI-Assisted Productivity Tools
+- Building Freelance-Ready Projects
+
+##  Tech Stack
+
+- Python
+- BeautifulSoup
+- Selenium
+- Playwright
+- Requests
+- Pandas
+- JSON
+- CSV
+- Excel
+- Git & GitHub
+
+##  Current Goal
+
+I'm currently focused on building real-world projects, growing my freelancing career, and helping businesses collect, organize, and automate data efficiently.
+
+##  Featured Projects
+
+Coming Soon:
+
+- Adidas Product Data Scraper
+- Automated Job Listing Scraper
+- Breaking News API Scraper
+- RSS News Monitoring & Filtering System
+
+---
+
+### Learning & Earning for my Dreams and Family
